@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MaryemBenHamouda/nevbar-react/static/css/main.3756ce7d.chunk.css",
-    "main.js": "/MaryemBenHamouda/nevbar-react/static/js/main.bbd2077d.chunk.js",
-    "main.js.map": "/MaryemBenHamouda/nevbar-react/static/js/main.bbd2077d.chunk.js.map",
-    "runtime-main.js": "/MaryemBenHamouda/nevbar-react/static/js/runtime-main.6a5fdc00.js",
-    "runtime-main.js.map": "/MaryemBenHamouda/nevbar-react/static/js/runtime-main.6a5fdc00.js.map",
-    "static/css/2.4121280a.chunk.css": "/MaryemBenHamouda/nevbar-react/static/css/2.4121280a.chunk.css",
-    "static/js/2.a1170d6f.chunk.js": "/MaryemBenHamouda/nevbar-react/static/js/2.a1170d6f.chunk.js",
-    "static/js/2.a1170d6f.chunk.js.map": "/MaryemBenHamouda/nevbar-react/static/js/2.a1170d6f.chunk.js.map",
-    "index.html": "/MaryemBenHamouda/nevbar-react/index.html",
-    "precache-manifest.451aa40b43bd0870a59feed1195d7733.js": "/MaryemBenHamouda/nevbar-react/precache-manifest.451aa40b43bd0870a59feed1195d7733.js",
-    "service-worker.js": "/MaryemBenHamouda/nevbar-react/service-worker.js",
-    "static/css/2.4121280a.chunk.css.map": "/MaryemBenHamouda/nevbar-react/static/css/2.4121280a.chunk.css.map",
-    "static/css/main.3756ce7d.chunk.css.map": "/MaryemBenHamouda/nevbar-react/static/css/main.3756ce7d.chunk.css.map",
-    "static/js/2.a1170d6f.chunk.js.LICENSE.txt": "/MaryemBenHamouda/nevbar-react/static/js/2.a1170d6f.chunk.js.LICENSE.txt"
+    "main.css": "/nevbar-react/static/css/main.3756ce7d.chunk.css",
+    "main.js": "/nevbar-react/static/js/main.93955a45.chunk.js",
+    "main.js.map": "/nevbar-react/static/js/main.93955a45.chunk.js.map",
+    "runtime-main.js": "/nevbar-react/static/js/runtime-main.fdc5727e.js",
+    "runtime-main.js.map": "/nevbar-react/static/js/runtime-main.fdc5727e.js.map",
+    "static/css/2.4121280a.chunk.css": "/nevbar-react/static/css/2.4121280a.chunk.css",
+    "static/js/2.a1170d6f.chunk.js": "/nevbar-react/static/js/2.a1170d6f.chunk.js",
+    "static/js/2.a1170d6f.chunk.js.map": "/nevbar-react/static/js/2.a1170d6f.chunk.js.map",
+    "index.html": "/nevbar-react/index.html",
+    "precache-manifest.f6197499adf8db2efc5ad137f140f683.js": "/nevbar-react/precache-manifest.f6197499adf8db2efc5ad137f140f683.js",
+    "service-worker.js": "/nevbar-react/service-worker.js",
+    "static/css/2.4121280a.chunk.css.map": "/nevbar-react/static/css/2.4121280a.chunk.css.map",
+    "static/css/main.3756ce7d.chunk.css.map": "/nevbar-react/static/css/main.3756ce7d.chunk.css.map",
+    "static/js/2.a1170d6f.chunk.js.LICENSE.txt": "/nevbar-react/static/js/2.a1170d6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a5fdc00.js",
+    "static/js/runtime-main.fdc5727e.js",
     "static/css/2.4121280a.chunk.css",
     "static/js/2.a1170d6f.chunk.js",
     "static/css/main.3756ce7d.chunk.css",
-    "static/js/main.bbd2077d.chunk.js"
+    "static/js/main.93955a45.chunk.js"
   ]
 }
