@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Navbar from './Navbar';
+
+const Menus=[
+  { title:"Home", link:"https://www.google.com" },
+  {title:"Service", link:"", subMenu:["For enrepreneurs","For students", "for habbyists"]},
+  {title:"contact", link:"https://www.google.com"}
+]
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar data={Menus} />
     </div>
   );
 }
-
 export default App;

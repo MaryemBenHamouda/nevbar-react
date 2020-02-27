@@ -1,8 +1,10 @@
+
+
 .App {
   text-align: center;
 }
 
-.App-logo {
+/* .pp-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -22,17 +24,49 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}A */
+.list{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  cursor: pointer;
+  
 }
-
-.App-link {
-  color: #61dafb;
+.sousmenu li{
+  display: block;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sousmenu{
+  list-style: none;
+  display: none;
+  border:1px solid transparent ;  
+  background: rgb(230, 232, 235);
+}
+.sousmenu :hover{
+  display: block;
+   cursor: pointer;
+} 
+.dropdown {
+  position: relative;
+  display: inline-block;
+ 
+} 
+.dropdown:hover .sousmenu {
+  display: block;
+ 
+}
+.li :hover{
+   background-color: #f9f9f9;
+  cursor: pointer;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.supmenu{
+  color: black;
+}
+.supmenu :hover{
+  color: #2196EF;
 }
